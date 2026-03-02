@@ -15,4 +15,4 @@ These early telephones where in rural area and all connect on one line (6-20 on 
 ### Functions
 
 
-[^1]: reference 1
+[^1]: Old Time Telephones https://repository.lib.ncsu.edu/bitstreams/f2b7ec52-1d8a-4e4a-8e35-b7af1cdf8d62/download
