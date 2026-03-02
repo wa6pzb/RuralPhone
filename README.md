@@ -1,6 +1,13 @@
 # RuralPhone
 This project documents the construction of an adapter to convert a standard telephone to a rural "bridged" telephone.
 
+## Why?
+* Small camp-out between friends
+* Adhoc disaster emergency communication link
+* Other out-door events wanting simple reliable communication (e.g. festivals, etc.)
+* Amateur Radio field day setups
+* Fun with telephones for young and old
+
 Common telephones (made between 1950's to 2000's) that can still be found today needed a direct connection to a telephone office to work. 
 This connection to a central office used what is called a Common Battery (CB).
 This project attempts create a hardware adapter to connect these telephones together in a simple way that is portable and does not require a central office and no changes to the telephone.
