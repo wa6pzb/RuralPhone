@@ -18,7 +18,7 @@ These early telephones where used in rural areas and were all connected to one l
 The party line system makes it easy since you just need one set of wires strung between all the locations.
 The adapter needs to convert the telephones from CB to LB and provide a way to "ring".
 Other advantages of telephones with a LB are that they can use just about any kind of wire for the connection (e.g. copper, steel, aluminum, etc.).
-it is also possible to use single wire with earth return.
+it is also possible to use single wire with earth return [^2].
 
 
 ## Basic Features
@@ -31,3 +31,4 @@ it is also possible to use single wire with earth return.
 #### References
 
 [^1]: Page 64, Old-Time Telephones (Ralph O. Meyer), https://repository.lib.ncsu.edu/bitstreams/f2b7ec52-1d8a-4e4a-8e35-b7af1cdf8d62/download
+[^2]: Old Forest Telphone System, https://www.bedore.org/PhoneHistory.html
