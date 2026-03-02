@@ -2,6 +2,7 @@
 This project documents the construction of an adapter to convert a standard telephone to a rural "bridged" telephone.
 
 ## Why?
+it can be used for:
 * Small camp-out between friends
 * Adhoc disaster emergency communication link
 * Other out-door events wanting simple reliable communication (e.g. festivals, etc.)
