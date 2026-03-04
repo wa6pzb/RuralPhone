@@ -33,6 +33,12 @@ This adapter can be used with most any CB telephone, but to be able to dial anot
 * Dial another station by number
 * Generate a audible tone when dialed
 
+### Future Functions
+* Ping another station to see if it is connected
+* Line in use detection
+* Determine last station that called
+* Etc.
+
 #### References
 
 [^1]: Page 64, Old-Time Telephones (Ralph O. Meyer), https://repository.lib.ncsu.edu/bitstreams/f2b7ec52-1d8a-4e4a-8e35-b7af1cdf8d62/download
