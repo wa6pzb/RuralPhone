@@ -39,6 +39,9 @@ This adapter can be used with most any CB telephone, but to be able to dial anot
 * Determine last station that called
 * Etc.
 
+H11AA1 Optocouplwr line detection
+
+
 #### References
 
 [^1]: Page 64, Old-Time Telephones (Ralph O. Meyer), https://repository.lib.ncsu.edu/bitstreams/f2b7ec52-1d8a-4e4a-8e35-b7af1cdf8d62/download
