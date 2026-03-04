@@ -31,7 +31,7 @@ This adapter can be used with most any CB telephone, but to be able to dial anot
 ### Functions
 * Set a station number (1 to 9)
 * Dial another station by number
-* The adapter generates a audible tone when dialed
+* Generate a audible tone when dialed
 
 #### References
 
