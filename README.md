@@ -22,7 +22,8 @@ These early telephones where used in rural areas and were all connected to one l
 <img src="./images/LB_phones.png" width="300">
 
 The party line system makes it easy since you just need one set of wires strung between all the locations.
-The adapter converts the telephone from CB to LB and provides a way to "ring" the other telephones without a high voltage.
+
+This adapter converts the telephone from CB to LB and provides a way to "ring" the other telephones without a high voltage.
 
 
 
