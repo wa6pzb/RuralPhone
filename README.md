@@ -22,8 +22,7 @@ It is even possible to use a single wire with earth return [^2].
 This adapter is needed for each phone on the wire. 
 This adapter can be used with most any CB telephone, but to be able to dial another phone it needs to be a touch tone telephone.
 
-![Alt text](images/ruralphone3.jpg?raw=true "Simple LB Telephones")
-<img src="./images/ruralphone3.jpg" width="200" height="150">
+<img src="./images/ruralphone3.jpg" width="300>
 
 ## Basic Features
 * Raspberry Pi Pico MCU
