@@ -26,7 +26,7 @@ The party line system makes it easy since you just need one set of wires strung 
 
 This adapter converts the telephone from CB to LB and provides a way to "ring" the other telephones without a high voltage.
 
-<img src="./images/adapter.png" width="300">
+<img src="./images/adapter_v2.png" width="300">
 
 Other advantages of a LB telephone are that they can use just about any kind of wire for the connection (e.g. copper, steel, barbed wire, aluminum, etc.).
 It is even possible to use a single wire with earth return [^2].
