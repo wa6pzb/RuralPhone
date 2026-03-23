@@ -10,3 +10,5 @@ Test picomite played DTMF tones
 Using level converter decode all the DTMF digits
 
 using https://app.smartdraw.com/ to draw and snap simple drawings for the project
+
+Note: H11AA1 Optocouplwr line detection device
