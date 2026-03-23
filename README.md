@@ -12,11 +12,15 @@ It can be used for:
 ## Background
 Common telephones (circa 1950's to 2000's) that can still be found today need a direct connection to a telephone office to work. 
 This connection to a central office used what is called a Common Battery (CB).
+
 <img src="./images/CB_phones.png" width="300">
+
 This project creates a hardware adapter that connects these telephones together in a simple way that is portable and does not require a central office or changes to the telephone.
 Early telephones (cica 1900's) contained what was called a Local Battery (LB) and a hand cranked generator (used for ringing) [^1].
 These early telephones where used in rural areas and were all connected to one line (with 2 to 12 or more) on a party line.
+
 <img src="./images/LB_phones.png" width="300">
+
 The party line system makes it easy since you just need one set of wires strung between all the locations.
 The adapter converts the telephone from CB to LB and provides a way to "ring" the other telephones without a high voltage.
 Other advantages of a LB telephone are that they can use just about any kind of wire for the connection (e.g. copper, steel, barbed wire, aluminum, etc.).
