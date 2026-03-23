@@ -23,7 +23,7 @@ This adapter is needed for each phone on the wire.
 This adapter can be used with most any CB telephone, but to be able to dial another phone it needs to be a touch tone telephone.
 
 <img src="./images/ruralphone3.jpg" width="300">
-<img src="./images/LBphones.png" width="300">
+<img src="./images/LB_phones.png" width="300">
 
 ## Basic Features
 * Raspberry Pi Pico MCU
