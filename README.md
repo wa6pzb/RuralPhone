@@ -49,7 +49,7 @@ The adapter can be used with most any CB telephone.
 * Determine last station that called
 * Etc.
 
-H11AA1 Optocouplwr line detection
+
 
 
 #### References
