@@ -30,18 +30,18 @@ This adapter converts the telephone from CB to LB and provides a way to "ring" t
 
 Other advantages of a LB telephone are that they can use just about any kind of wire for the connection (e.g. copper, steel, barbed wire, aluminum, etc.).
 It is even possible to use a single wire with earth return [^2].
-This adapter is needed for each phone on the wire. 
-This adapter can be used with most any CB telephone, but to be able to dial another phone it needs to be a touch tone telephone.
+The adapter is needed for each phone on the wire. 
+The adapter can be used with most any CB telephone.
 
 ## Basic Features
 * Raspberry Pi Pico MCU
 * MMBasic as the development environment
-* Battery operation
+* Optional internal battery for field use
 
 ### Functions
-* Set a station number (1 to 9)
+* Set a station number
 * Dial another station by number
-* Generate a audible tone when dialed
+* Ring just the telephone dialed
 
 ### Future Functions
 * Ping another station to see if it is connected
