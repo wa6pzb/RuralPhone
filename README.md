@@ -24,6 +24,7 @@ This adapter can be used with most any CB telephone, but to be able to dial anot
 
 <img src="./images/ruralphone3.jpg" width="300">
 <img src="./images/LB_phones.png" width="300">
+<img src="./images/CB_phones.png" width="300">
 
 ## Basic Features
 * Raspberry Pi Pico MCU
