@@ -7,6 +7,7 @@ It can be used for:
 * Adhoc disaster/emergency communication links
 * Other outdoor events needing simple reliable communication (e.g. festivals, etc.)
 * Amateur Radio field day setups
+* Telephone collectors
 * Fun with telephones for young and old
 
 ## Background
