@@ -12,7 +12,7 @@
 - [ ] Using level converter decode all the DTMF digits
 
 ## Ideas
-Send DTMF reserved tones like "A" on an interval to sigbal line in use  
+Send DTMF reserved tones like "A" on an interval to signal line in use  
 
 using https://app.smartdraw.com/ to draw and snap simple drawings for the project
 
