@@ -6,7 +6,7 @@
 
 ## To Do
 
-- [a] Playing audio files on the picomite
+- [x] Playing audio files on the picomite
 - [ ] Test the back to back connection SLIC to PSTN modules
 - [ ] Test picomite played DTMF tones
 - [ ] Using level converter decode all the DTMF digits
