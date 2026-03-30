@@ -6,10 +6,10 @@
 
 ## To Do
 
-- [ ] Playing audio files on the picomite
-Test the back to back connection SLIC to PSTN modules
-Test picomite played DTMF tones
-Using level converter decode all the DTMF digits
+- [a] Playing audio files on the picomite
+- [ ] Test the back to back connection SLIC to PSTN modules
+- [ ] Test picomite played DTMF tones
+- [ ] Using level converter decode all the DTMF digits
 
 using https://app.smartdraw.com/ to draw and snap simple drawings for the project
 
