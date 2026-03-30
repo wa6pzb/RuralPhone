@@ -1,10 +1,12 @@
 # Work Log
 
 2026_0301 - Verified the MT8870 decoder works directly on the phone side of the 600 ohm 1:1 transformer
+2026_0329 - MMBasic DTMF decoder connected to RP Pico with level shifters
+
 
 ## To Do
 
-Playing audio files on the picomite
+ -[ ] Playing audio files on the picomite
 Test the back to back connection SLIC to PSTN modules
 Test picomite played DTMF tones
 Using level converter decode all the DTMF digits
