@@ -9,7 +9,7 @@
 - [x] Playing audio files on the picomite
 - [ ] Test the back to back connection SLIC to PSTN modules
 - [ ] Test picomite played DTMF tones
-- [ ] Using level converter decode all the DTMF digits
+- [ ] Test DTMF control from one phone to another
 
 ## Ideas
 Send DTMF reserved tones like "A" on an interval to signal line in use  
