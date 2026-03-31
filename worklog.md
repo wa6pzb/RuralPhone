@@ -14,6 +14,7 @@
 ## Ideas
 Send DTMF reserved tones like "A" on an interval to signal line in use  
 
+## Notes
 using https://app.smartdraw.com/ to draw and snap simple drawings for the project
 
-Note: H11AA1 Optocouplwr line detection device
+Note: H11AA1 Optocoupler line detection device
