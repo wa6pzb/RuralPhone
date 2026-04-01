@@ -36,7 +36,7 @@ The adapter can be used with most any CB telephone.
 ## Basic Features
 * Raspberry Pi Pico MCU
 * MMBasic as the development environment
-* Optional internal battery for field use
+* Optional battery operation for field use
 
 ### Functions
 * Assign a station number
