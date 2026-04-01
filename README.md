@@ -39,11 +39,14 @@ The adapter can be used with most any CB telephone.
 * Optional internal battery for field use
 
 ### Functions
-* Set a station number
+* Assign a station number
 * Dial another station by number
 * Ring just the telephone dialed
+* Ring all telephones on the line
+* Dial code, hang-up and ring back the local telephone (standalone testing)
 
 ### Future Functions
+* Pulse and TouchTone support
 * Ping another station to see if it is connected
 * Line in use detection
 * Determine last station that called
