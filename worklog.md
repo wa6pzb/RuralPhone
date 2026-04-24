@@ -4,6 +4,8 @@
 2026_0329 - MMBasic DTMF decoder connected to RP Pico with level shifters, and decoding all digits  
 2026_0405 - Confirmed DTMF decode from one CB adapter to another
 
+new name BPhone - Bus or Bridged Telephone
+
 ## To Do
 
 - [x] Playing audio files on the picomite
